@@ -19,13 +19,11 @@ img{
     max-width: 100%;
    
 }
-@media (min-width:750px){
+@media (min-width:700px){
    img{
     max-width: 55%;
    } 
-   .btn0{
-    margin:  auto !important;
-}
+   
 }
  h3{
     font-size: 4rem;
@@ -38,10 +36,8 @@ img{
    
     margin: auto;
 }
-.btn0{
-    margin: 4rem auto;
-}
-.btn0>h2{
+
+.h2{
     color: yellow;
     animation: color 1s infinite;
 }
