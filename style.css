@@ -68,7 +68,7 @@ a{
 }
 .btn1:hover{
     border-radius: 0px;
-   background-color: #333;
+   background-color: #111;
 }
 .btn1 a:hover{
     color: white;
