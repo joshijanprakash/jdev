@@ -56,7 +56,7 @@ img{
     transform: translate(-50%, -50%);
 }
 footer{
-    width: fit-content;
+    width: 10rem;
     position: absolute;
     bottom: 0px;
     left: 50%;
