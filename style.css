@@ -73,3 +73,15 @@ a{
 .btn1 a:hover{
     color: white;
 }
+
+.loader{
+    animation: load 10s  1 1s;
+}
+@keyframes load {
+    0%{
+       
+       font-size: medium;
+       color: yellow;
+    }
+   
+}
