@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(28, 28, 39);
+}
+
+.header{
+    margin-bottom: -5rem;
+    margin-top: -1rem;
+    text-align: center;
+
+}
+.header
+
+.sk-ww-yt-video-info span{
+    color:red;
+    
+}
+
+.sk-ww-yt-video-info{
+   
+    opacity: 1 !important;
+}
+.sk-yt-post-hover {
+    background: rgba(0, 0, 0, 0.3) !important;
+}
+
+.sk-ww-youtube-channel-videos-item:hover .sk-yt-post-hover {
+    background: rgba(0, 0, 0, 0) !important;
+
+    
+}
+
+.btn{
+   
+    border-radius: 5px;
+    text-align: center;
+    width: fit-content;
+    padding: 10px;
+    font-size: 1rem;
+    box-shadow: 5px 5px 15px 10px #ffffff47;
+    color: white;
+   margin-left: 10px;
+   position: absolute;
+   font-weight: bold;
+   
+   border: none;
+}
+.btn:hover{
+    border: 1px solid orange;
+  
+}
+
+@media (max-width:780px) {
+    .header{
+        margin-bottom: -2rem;
+    }
+    .btn{
+        position: relative;
+      margin-top: -4.6rem;
+    }
+}
+
+.header img:hover{
+    scale: 1.2;
+}
+
+
